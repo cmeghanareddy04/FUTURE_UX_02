@@ -158,20 +158,20 @@ Interactive prototype
 User-centered design approach
 Clean and scalable component library
 
-🔗 Project Links
-🎨 Figma Design File
+## 🔗 Project Links
+## 🎨 Figma Design File
 https://www.figma.com/design/98e42lNrjcoo506EV2QOEH/Local-Service-Dental-clinic-?node-id=114-89&t=PLmdnN4tfc55w4Lh-1
-▶️ Interactive Prototype
+## ▶️ Interactive Prototype
 https://www.figma.com/proto/98e42lNrjcoo506EV2QOEH/Local-Service-Dental-clinic-?node-id=114-89&t=PLmdnN4tfc55w4Lh-1
 
 
-👩‍💻 Designed By
+## 👩‍💻 Designed By
 Meghana Reddy
 
 UI/UX Design Intern
 
-Project ID: FUTURE_UX_02
+## Project ID: FUTURE_UX_02
 
-GitHub: https://github.com/cmeghanareddy04
+## GitHub: https://github.com/cmeghanareddy04
 
-LinkedIn: https://linkedin.com/in/Meghanaachegireddy
+## LinkedIn: https://linkedin.com/in/Meghanaachegireddy
